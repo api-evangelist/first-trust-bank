@@ -1,0 +1,56 @@
+{
+    "name": "First Trust Bank",
+    "description": "<p><span>First Trust Bank is a trade mark of AIB Group (UK) p.l.c. (a wholly owned subsidiary of Allied Irish Banks, p.l.c.), incorporated in Northern Ireland. Registered Office 92 Ann Street, Belfast BT1 3HH. Registered Number NI018800. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mdy_8774354__firsttrustbank.jpg",
+    "tags": [
+        "api provider",
+        "banking",
+        "general data",
+        "have api",
+        "relative data",
+        "uk banks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/first-trust-bank\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "First Trust Bank",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mdy_8774354__firsttrustbank.jpg",
+            "humanURL": "https:\/\/firsttrustbank.co.uk\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/first-trust-bank.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/first-trust-bank-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/openbankingapis.io\/united-kingdom\/first-trust-bank"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/openbanking.atlassian.net\/wiki\/spaces\/DZ\/pages\/54919225\/Open+Data+API+Dashboard#"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/firsttrustbank"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/firsttrustbank.co.uk\/"
+        }
+    ]
+}
