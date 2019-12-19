@@ -1,0 +1,128 @@
+{
+    "id": "5b18da4ef757a8f690874657d55c7df5",
+    "name": "First Trust Bank",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "e8711702e5ab664ebf9af0ca44b5ebcc",
+            "name": "Get ATMs",
+            "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/atms\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "rawModeData": ""
+        },
+        {
+            "id": "0e72057872504250efb6849538afadb0",
+            "name": "Get Branches",
+            "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/branches\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "rawModeData": ""
+        },
+        {
+            "id": "a3bf9bbc9501af43a20d70492c8e1baf",
+            "name": "Get Current Personal Accounts",
+            "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "rawModeData": ""
+        },
+        {
+            "id": "beaf2f577efb3b5d781bf04e15e805fb",
+            "name": "Get Current Business Accounts",
+            "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/business-current-accounts\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "rawModeData": ""
+        },
+        {
+            "id": "879ddb51fd0e531e51912415e0f01149",
+            "name": "Get Unsecured SME Loans",
+            "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "rawModeData": ""
+        }
+    ]
+}
