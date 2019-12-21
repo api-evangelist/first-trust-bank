@@ -1,5 +1,5 @@
 {
-    "id": "5b18da4ef757a8f690874657d55c7df5",
+    "id": "81030fd87751b5a931b240fe9fd7aaaa",
     "name": "First Trust Bank",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "e8711702e5ab664ebf9af0ca44b5ebcc",
+            "id": "a75c41e239721fbe17aaf6c6bc112a26",
             "name": "Get ATMs",
             "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/atms\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "collectionId": "81030fd87751b5a931b240fe9fd7aaaa",
             "rawModeData": ""
         },
         {
-            "id": "0e72057872504250efb6849538afadb0",
+            "id": "65e5dc0e13e521595a683c111ffcb35d",
             "name": "Get Branches",
             "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/branches\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "collectionId": "81030fd87751b5a931b240fe9fd7aaaa",
             "rawModeData": ""
         },
         {
-            "id": "a3bf9bbc9501af43a20d70492c8e1baf",
+            "id": "9aae2f8f053f9d95bb653a1d0639b126",
             "name": "Get Current Personal Accounts",
             "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "collectionId": "81030fd87751b5a931b240fe9fd7aaaa",
             "rawModeData": ""
         },
         {
-            "id": "beaf2f577efb3b5d781bf04e15e805fb",
+            "id": "af2b84c0254413159adae0a09e2c947f",
             "name": "Get Current Business Accounts",
             "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/business-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "collectionId": "81030fd87751b5a931b240fe9fd7aaaa",
             "rawModeData": ""
         },
         {
-            "id": "879ddb51fd0e531e51912415e0f01149",
+            "id": "5bd192edf8657a67980a7d7ce1d0a633",
             "name": "Get Unsecured SME Loans",
             "url": "httpsopenapi.firsttrustbank.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
@@ -121,7 +121,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "5b18da4ef757a8f690874657d55c7df5",
+            "collectionId": "81030fd87751b5a931b240fe9fd7aaaa",
             "rawModeData": ""
         }
     ]
